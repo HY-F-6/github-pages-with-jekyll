@@ -8,4 +8,4 @@ description: "www.traveler.hyf"
 twitter_username: Hy-f-6 # DO NOT include the @ character, or else the build will fail!
 github_username:  HY-F-6 # DO NOT include the @ character, or else the build will fail!
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
