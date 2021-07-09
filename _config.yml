@@ -1,11 +1,11 @@
 theme: minima
 title: "Lonely traveler" 
 author: "GitHub HY-F-6"
-email: "your-email@domain.com"
+email: "HY-F-6@domain.com"
 description: "www.traveler.hyf"
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: Hy-f-6 # DO NOT include the @ character, or else the build will fail!
+github_username:  HY-F-6 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
