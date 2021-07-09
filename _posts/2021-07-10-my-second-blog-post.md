@@ -1,5 +1,5 @@
 ---
-title: "lonely"
+title: "lonely."
 date:2021-07-10
 ---
 Then a mason came forth and said, "Speak to us of Houses."
