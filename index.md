@@ -1,5 +1,5 @@
 ---
-title: "Hi,Everybody"
+title: "Appreciations of Poetry"
 ---
 
-I'm glad you are here. I plan to talk about something that create a blog in this site
+I'm glad you are here. Here you can enjoy different value of poetry, please slowly appreciate it
